@@ -1,6 +1,6 @@
 # 🧁 Doces Gab's Atelier - PWA de Gestão Comercial
 
-> 🔒 **Nota sobre Propriedade Intelectual:** Este é um software de natureza comercial (SaaS) desenvolvido para operação real. Por questões de segurança e proteção de negócio, o código-fonte original é mantido em um repositório privado. Este espaço serve como documentação técnica, arquitetural e demonstração das funcionalidades.
+> 🔒 **Nota sobre Propriedade Intelectual:** Este é um software de natureza comercial (SaaS) desenvolvido para operação real. Por questões de segurança e proteção de negócio, o código-fonte original é mantido em um repositório privado. Este espaço serve como documentação técnica, arquitetural e demonstração das funcionalidades, segue link do post do Linkedin com gravação do app na prática: https://www.linkedin.com/posts/nicolas-rodrigues-de-oliveira_engenhariadesoftware-arquiteturadesoftware-ugcPost-7446970716576448513-BAPb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEy51qgBj4atWCQAFFgn4GhQrdPa7h_PGN8.
 
 ## 📱 Demonstração Visual
 
